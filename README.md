@@ -71,6 +71,6 @@ Overall, designing circuitry that supports bi-directional data/power flow with r
 
 #### KiCad symbol/footprint libraries used:
 - Mostly [scottokeebs](https://github.com/joe-scotto/scottokeebs/tree/main "scottokeebs") ones. Huge props to the guy!
-- Also [foostan](https://github.com/foostan/crkbd/tree/v3-final/corne-cherry "foostan")
+- Also [foostan's](https://github.com/foostan/kbd/tree/f90510c11b6df53bcdb55740b0d59183957e4036) ones
 
 Unfortunately, all 3D files are made in SolidWorks, which is not free/opensource. Maybe someday I'll redo them in FreeCad, but for now it is what it is. STP files for 3D printing (which most slicers should support nowadays) are also included.  
