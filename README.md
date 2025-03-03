@@ -38,7 +38,7 @@ If you've never had a Corne keyboard before, [this](https://github.com/fathulfah
 > Since TRRS safety is quite sensitive and reoccuring topic in the DIY-keyboards community I will not touch it here (or will I?), but I would avoid this option if possible.
 
 - **Cantor / Piantor** - although it is very comfortable to use layout-wise, the MCU board itself is huge, albeit much easier to flash. Which in turn somewhat leaves it with the only option for the halves connection to also be TRRS.
-- **Altair/Altair-X** - Not open source. Difficult to repair, if something "dies".  Good luck finding available one to buy these days 😀
+- **Altair/Altair-X** - Not open source. Difficult to repair, if something "dies".  Good luck finding available one to buy these days 😀, not to mention hefty price tag.
 - **Cheapino** - RJ45 might be too janky-looking and overall big connector for some users (me included), Otherwise very cool and build-friendly board 🥰.
 
 #### Why not low-profile?
