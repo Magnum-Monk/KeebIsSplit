@@ -2,17 +2,15 @@
 
 (built keyboard photo: WIP)
 
-Greetings, fellow keyboard enthusiasts. I am glad to share with you my small project - Keeb Is Split.
-
-#### References / Inspirations :
-
-- **CRKBD** - all-time classic, "industry standart" of DIY ergo keyboards at this point, if I could say so myself;
-- **Cantor/Piantor** - excellent thumb cluster, overall big improvement in layout ergonimics imo.
-- **Altair/Altair-X** - top grade aestethics, build quality.
-- **Cheapino** - Robust, easy to assemble, easy to fix/repair, easy to source components, well... cheap! ☺️
-
 #### Whats the big idea? (TLDR)
-Robust, decent-looking, comfortable, cost-effective, easy-to-build/repair/use split keyboard.
+Robust, decent-looking, comfortable, cost-effective, easy-to-build/repair/use 3x6 split keyboard. 
+
+#### References / Credits / Inspirations :
+- [**CRKBD**](https://github.com/foostan/crkbd) - all-time classic, "industry standart" of DIY ergo keyboards at this point, if I could say so myself;
+- [**Cantor/Piantor**](https://github.com/diepala/cantor) - excellent thumb cluster, overall big improvement in layout ergonimics imo.
+- [**Altair/Altair-X**](https://www.reddit.com/r/MechanicalKeyboards/comments/1cg4ejp/gb_altairx_live_now_a_premium_easy_to_learn/) - top grade aestethics, build quality.
+- [**Cheapino**](https://github.com/tompi/cheapino) - Robust, easy to assemble, easy to fix/repair, easy to source components, well... cheap! ☺️
+
 
 #### Firmware
 This build utilizes exact pinout that **CRKBD** uses. So you can safely use your Corne (v2/v3) firmware to flash this keyboard.
