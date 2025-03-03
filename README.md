@@ -2,7 +2,7 @@
 
 (built keyboard photo: WIP)
 
-Greetings, fellow keyboard enthusiasts. I am glad to share  with you my small project - Keeb Is Split.
+Greetings, fellow keyboard enthusiasts. I am glad to share with you my small project - Keeb Is Split.
 
 #### References / Inspirations :
 
@@ -11,12 +11,31 @@ Greetings, fellow keyboard enthusiasts. I am glad to share  with you my small pr
 - **Altair/Altair-X** - top grade aestethics, build quality.
 - **Cheapino** - Robust, easy to assemble, easy to fix/repair, easy to source components, well... cheap! ☺️
 
-#### Whats the big idea?
+#### Whats the big idea? (TLDR)
 Robust, decent-looking, comfortable, cost-effective, easy-to-build/repair/use split keyboard.
+
+#### Firmware
+This build utilizes exact pinout that **CRKBD** uses. So you can safely use your Corne (v2/v3) firmware to flash this keyboard
+
+#### Build guide (WIP)
+
+#### BOM
+| Part                 | Amount | Links                                                                                                                                                                                                                                                                                                                                                    |
+|----------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ProMicro-like MCU    | 2      | [aliexpress](https://aliexpress.ru/item/1005004242820623.html?spm=a2g2w.orderdetail.0.0.460d4aa6AvOP5C&sku_id=12000028500661497)                                                                                                                                                                                                            |
+| PCB                  | 2      | JLCPCB, PCBWay or other service that you prefer                                                                                                                                                                                                                                                                                                          |
+| MX HotSwap Socket    | 42     | [aliexpress](https://aliexpress.ru/wholesale?SearchText=kailh+mx+socket&g=y&page=1&searchInfo=A6ON%2FDUCyFd0j2HDxpeVKVoOMc2j+7O64tYNu5a8P+V8gMksvBOiUL7krwlUwZ266w1Qflck+JXe18xAFwbaMovdHjI2%2F2ouiiGyMe3C3O8S2CPD%2Fw7SRsXFQPxfUhNKvHtfjXIBBqE1jemlzqPQiXWU4ihS99yHB8lfgTvQgW8j1PY5epuYAnrB)                                                                          |
+| SMD SOD123 Diode     | 42     | [aliexpress](https://aliexpress.ru/item/1005008365065961.html?spm=a2g2w.orderdetail.0.0.ce494aa6ze2dVH&sku_id=12000044731484531)                                                                                                                                                                                                                                       |
+| USB-A Socket         | 2      | [aliexpress](https://aliexpress.ru/item/1005006501690133.html?sku_id=12000037434446990&spm=a2g2w.productlist.search_results.12.5a9f44b6SVPu5b)                                                                                                                                                                                                                         |
+| USB-A -> USB-A Cable | 1      | [aliexpress 1](https://aliexpress.ru/item/1005003574732583.html?spm=a2g2w.orderdetail.0.0.44344aa6HsNdnS&sku_id=12000026341806398) [aliexpress 2](https://aliexpress.ru/item/1005006002851777.html?spm=a2g2w.orderdetail.0.0.312e4aa6oU8xds&sku_id=12000035266036584)  [aliexpress 3](https://aliexpress.ru/item/1005007351594401.html?spm=a2g2w.orderdetail.0.0.4f0d4aa6ib4thb&sku_id=12000040385973360)     |
+| Reset Button         | 2      | [aliexpress](https://aliexpress.ru/item/1005007177692594.html?sku_id=12000039712603251&spm=a2g2w.productlist.search_results.11.2bad61e4nLrZqG)                                                                                                                                                                                                                         |
+| M2x5 screw           | 20     |                                                                                                                                                                                                                                                                                                                                                          |
+| M2x8 screw           | 8      |                                                                                                                                                                                                                                                                                                                                                          |
+| M2x5 spacer          | 18     | [aliexpress](https://aliexpress.ru/item/4000314663724.html?sku_id=10000001297126740&spm=a2g2w.productlist.search_results.0.67825d52ElIZ9D)                                                                                                                                                                                                                             |
 
 #### Why not just use one of those options?
 (Basically, a list of nit-picks 😀 )
-- **CRKBD** - thumb cluster, specifically 1.5u innermost keys. Not only does it feel a bit clunky for me to use, but also, finding matching keycaps for those keys could be challenging and annoying. Although I do somewhat understand the reasoning behind this (design-wise, it makes sense to extend this key to 1.5u, because with 1u you kind of have this empty space and weird angle on the inner edge of the keyboard (just like in Ergonaut, Cantor, or this very keyboard). Since the mcu is quite wide, you cannot eliminate this issue without moving the whole cluster outwards or rotating in in a werid position, which in and of itself could hurt comfort of use. TRRS connection between two halves.
+- **CRKBD** - thumb cluster, specifically 1.5u innermost keys. Not only does it feel a bit clunky for me to use, but also, finding matching keycaps for those keys could be challenging and annoying (and convex 1.5u spacebar is a rarity of its own kind). Although I do somewhat understand the reasoning behind this (design-wise, it makes sense to extend this key to 1.5u, because with 1u you kind of have this empty space and weird angle on the inner edge of the keyboard (just like in Ergonaut, Cantor, or this very keyboard). Since the mcu is quite wide, you cannot eliminate this issue without moving the whole cluster outwards or rotating in in a werid position, which in and of itself could hurt comfort of use. TRRS connection between two halves.
 > Since it is quite sensitive and reoccuring topic in the DIY-keyboards community I would not touch it here (or would I?), but this option is not preferrable for me personally. 
 
 - **Cantor / Piantor** - although it is very comfortable to use layout-wise, the MCU board itself is huge, albeit much easier to flash. Which in turn somewhat leaves it with the only option for the halves connection to also be TRRS.
@@ -48,21 +67,6 @@ Although its highly debatable, I still think this is the "safe-ish" option to co
 
 Overall, designing circuitry that supports bi-directional data/power flow with robust MCU protection is a challenging task (quite beyond my expertise, tbh), and will definitely significantly complicate assembling process and increase the amount of parts needed (and the price, which is definitely an important factor too).
 
-#### Build guide (WIP)
-
-#### BOM
-| Part                 | Amount | Links                                                                                                                                                                                                                                                                                                                                                    |
-|----------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ProMicro-like MCU    | 2      | [aliexpress](https://aliexpress.ru/item/1005004242820623.html?spm=a2g2w.orderdetail.0.0.460d4aa6AvOP5C&sku_id=12000028500661497)                                                                                                                                                                                                            |
-| PCB                  | 2      | JLCPCB, PCBWay or other service that you prefer                                                                                                                                                                                                                                                                                                          |
-| MX HotSwap Socket    | 42     | [aliexpress](https://aliexpress.ru/wholesale?SearchText=kailh+mx+socket&g=y&page=1&searchInfo=A6ON%2FDUCyFd0j2HDxpeVKVoOMc2j+7O64tYNu5a8P+V8gMksvBOiUL7krwlUwZ266w1Qflck+JXe18xAFwbaMovdHjI2%2F2ouiiGyMe3C3O8S2CPD%2Fw7SRsXFQPxfUhNKvHtfjXIBBqE1jemlzqPQiXWU4ihS99yHB8lfgTvQgW8j1PY5epuYAnrB)                                                                          |
-| SMD SOD123 Diode     | 42     | [aliexpress](https://aliexpress.ru/item/1005008365065961.html?spm=a2g2w.orderdetail.0.0.ce494aa6ze2dVH&sku_id=12000044731484531)                                                                                                                                                                                                                                       |
-| USB-A Socket         | 2      | [aliexpress](https://aliexpress.ru/item/1005006501690133.html?sku_id=12000037434446990&spm=a2g2w.productlist.search_results.12.5a9f44b6SVPu5b)                                                                                                                                                                                                                         |
-| USB-A -> USB-A Cable | 1      | [aliexpress 1](https://aliexpress.ru/item/1005003574732583.html?spm=a2g2w.orderdetail.0.0.44344aa6HsNdnS&sku_id=12000026341806398) [aliexpress 2](https://aliexpress.ru/item/1005006002851777.html?spm=a2g2w.orderdetail.0.0.312e4aa6oU8xds&sku_id=12000035266036584)  [aliexpress 3](https://aliexpress.ru/item/1005007351594401.html?spm=a2g2w.orderdetail.0.0.4f0d4aa6ib4thb&sku_id=12000040385973360)     |
-| Reset Button         | 2      | [aliexpress](https://aliexpress.ru/item/1005007177692594.html?sku_id=12000039712603251&spm=a2g2w.productlist.search_results.11.2bad61e4nLrZqG)                                                                                                                                                                                                                         |
-| M2x5 screw           | 20     |                                                                                                                                                                                                                                                                                                                                                          |
-| M2x8 screw           | 8      |                                                                                                                                                                                                                                                                                                                                                          |
-| M2x5 spacer          | 18     | [aliexpress](https://aliexpress.ru/item/4000314663724.html?sku_id=10000001297126740&spm=a2g2w.productlist.search_results.0.67825d52ElIZ9D)                                                                                                                                                                                                                             |
 
 KiCad symbol/footprint libraries used:
 - Mostly [scottokeebs](https://github.com/joe-scotto/scottokeebs/tree/main "scottokeebs") ones. Huge props to the guy!
