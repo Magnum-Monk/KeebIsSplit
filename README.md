@@ -44,7 +44,7 @@ This build utilizes exact pinout that **CRKBD** uses. So you can safely use your
 
 #### Why not low-profile?
 
-Well, mostly the switches. I am yet to find LP switch, that can compete in typing feel with some remarkable and widely loved MX-type ones. And I have tried almost all chocs, a variety of KS33 and Kailh LP models. The available options for MX switches at this point is far superior imo, and could fulfill the needs of any enthusiast. 
+Well, mostly the switches. I am yet to find LP switch, that can compete in typing feel with some remarkable and widely loved MX-type ones. And I have tried almost all chocs, a variety of KS33 and Kailh LP models. The available selection of MX switches at this point is far more superior imo, and could fulfill the needs of any enthusiast. 
 
 #### Why not wireless?
 I've tried multiple wireless keyboards, and keeping their charge levels in check is just another hassle for me. And the batteries themselves being another point of failure (experienced quite a few "spicy pillows" myself), which defeats the goal of this being robust. Maybe in the future I'll rethink this, but with the use of 3.7v AAA or coin cell batteries as power source.
