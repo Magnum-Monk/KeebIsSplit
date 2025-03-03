@@ -69,7 +69,7 @@ Although its highly debatable, I still think this is the "safe-ish" option to co
 Overall, designing circuitry that supports bi-directional data/power flow with robust MCU protection is a challenging task (quite beyond my expertise, tbh), and will definitely significantly complicate assembling process and increase the amount of parts needed (and the price, which is definitely an important factor too).
 
 
-KiCad symbol/footprint libraries used:
+#### KiCad symbol/footprint libraries used:
 - Mostly [scottokeebs](https://github.com/joe-scotto/scottokeebs/tree/main "scottokeebs") ones. Huge props to the guy!
 - Also [foostan](https://github.com/foostan/crkbd/tree/v3-final/corne-cherry "foostan")
 
