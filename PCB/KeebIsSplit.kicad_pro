@@ -448,7 +448,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CORNE_REDUX.kicad_pro",
+    "filename": "KeebIsSplit.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -517,7 +517,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "GERBER_REZONIT/",
+      "plot": "../Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "CORNE_REDUX.step",

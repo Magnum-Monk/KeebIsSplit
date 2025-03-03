@@ -117,7 +117,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "GERBER_REZONIT/")
+			(outputdirectory "../Gerbers/")
 		)
 	)
 	(net 0 "")
