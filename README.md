@@ -36,7 +36,7 @@ This build utilizes exact pinout that **CRKBD** uses. So you can safely use your
 #### Why not just use one of those options?
 (Basically, a list of nit-picks 😀 )
 - **CRKBD** - thumb cluster, specifically 1.5u innermost keys. Not only does it feel a bit clunky for me to use, but also, finding matching keycaps for those keys could be challenging and annoying (and convex 1.5u spacebar is a rarity of its own kind). Although I do somewhat understand the reasoning behind this (design-wise, it makes sense to extend this key to 1.5u, because with 1u you kind of have this empty space and weird angle on the inner edge of the keyboard (just like in Ergonaut, Cantor, or this very keyboard). Since the mcu is quite wide, you cannot eliminate this issue without moving the whole cluster outwards or rotating in in a werid position, which in and of itself could hurt comfort of use. TRRS connection between two halves.
-> Since it is quite sensitive and reoccuring topic in the DIY-keyboards community I would not touch it here (or would I?), but this option is not preferrable for me personally. 
+> Since it is quite sensitive and reoccuring topic in the DIY-keyboards community I will not touch it here (or will I?), but I would avoid this option if possible.
 
 - **Cantor / Piantor** - although it is very comfortable to use layout-wise, the MCU board itself is huge, albeit much easier to flash. Which in turn somewhat leaves it with the only option for the halves connection to also be TRRS.
 - **Altair/Altair-X** - Not open source. Difficult to repair, if something "dies".  Good luck finding available one to buy these days 😀
