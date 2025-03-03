@@ -64,9 +64,9 @@ Although its highly debatable, I still think this is the "safe-ish" option to co
 
 > But still, please do not use USB-A port on this keyboard to anything other than connecting two halves together. Connecting it to, say, USB port on your PC would most likely damage your MCU, since standard USB port supplies 5v, and MCU is expecting 3.3v.
 
-- Although the selection of available cables is much more limited, than, say, TRRS, it is still has a lot of options. And If nothing fits your bill, there are a lot of connectors available to build your own custom cable.
+- Although the selection of available cables is much more limited, than, say, TRRS, there are a lot of options still. And If nothing fits your bill, there are a lot of connectors available to build your own custom cable.
 
-Overall, designing circuitry that supports bi-directional data/power flow with robust MCU protection is a challenging task (quite beyond my expertise, tbh), and will definitely significantly complicate assembling process and increase the amount of parts needed (and the price, which is definitely an important factor too).
+Overall, designing circuitry that supports bi-directional data/power flow with reliable and resilient MCU protection is a challenging task (quite beyond my expertise, tbh), and will definitely significantly complicate assembling process and increase the amount of parts needed (and the price, which is definitely an important factor too).
 
 
 #### KiCad symbol/footprint libraries used:
