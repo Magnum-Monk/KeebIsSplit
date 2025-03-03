@@ -48,7 +48,7 @@ If you never had Corne keyboard, [this](https://github.com/fathulfahmy/corne-key
 Well, mostly the switches. I am yet to find LP switch, that can compete in typing feel with some remarkable and widely loved MX-type ones. And I have tried almost all chocs, a variety of KS33 and Kailh LP models. The available selection of MX switches at this point is far more superior imo, and could fulfill the needs of any enthusiast. 
 
 #### Why not wireless?
-I've tried multiple wireless keyboards, and keeping their charge levels in check is just another hassle for me. And the batteries themselves being another point of failure (experienced quite a few "spicy pillows" myself), which defeats the goal of this being robust. Maybe in the future I'll rethink this, but with the use of 3.7v AAA or coin cell batteries as power source.
+I've tried multiple wireless keyboards, and keeping their charge levels in check is just another hassle for me. And the batteries themselves being another point of failure (experienced quite a few "spicy pillows" myself), which defeats the goal of this being robust. Maybe in the future I'll rethink this, but with the use of 3.7v AAA or coin cell batteries as a power source. And last, but not least - after using VIAL I could not see myself using anything else, especially since I like to tinker with my layouts quite often, and reflashing the whole keyboard each time you decide to remap something seems like the relic of the past.
 
 #### Why no LEDs?
 I mean... Nothing against it, but it adds nothing of value to the device imo, except, well, cost and build complexity.
