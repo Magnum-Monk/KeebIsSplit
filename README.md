@@ -60,7 +60,7 @@ Again, I fiddled with them for some time in my Corne keyboards, but at the end I
 
 Although its highly debatable, I still think this is the "safe-ish" option to connect two halves of a keyboard:
 - Hot pluggable. Finally, no fear of accidentally detaching the cable from your keyboard and frying GPIO, or the whole MCU.
-- Low-ish chance of connecting it to the wrong device accidentally, since finding spare USB-A to USB-A cable lying on your desk, connected to some of your devices is highly unlikely (unlike USB-c, for example). Not to mention, using the same port type to connect keyboard to PC and left MCU to the right MCU can be somewhat confusing, and could easily result in  some MCU damage, being connected improperly).
+- Low-ish chance of connecting it to the wrong device accidentally, since finding spare USB-A to USB-A cable lying on your desk, connected to some of your devices is highly unlikely (not the case with USB-c, for example). Not to mention, using the same port type to connect keyboard to PC and left MCU to the right MCU can be somewhat confusing, and could easily result in  some MCU damage, being connected improperly).
 
 > But still, please do not use USB-A port on this keyboard to anything other than connecting two halves together. Connecting it to, say, USB port on your PC would most likely damage your MCU, since standard USB port supplies 5v, and MCU is expecting 3.3v.
 
