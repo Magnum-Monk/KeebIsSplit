@@ -15,7 +15,8 @@ Greetings, fellow keyboard enthusiasts. I am glad to share with you my small pro
 Robust, decent-looking, comfortable, cost-effective, easy-to-build/repair/use split keyboard.
 
 #### Firmware
-This build utilizes exact pinout that **CRKBD** uses. So you can safely use your Corne (v2/v3) firmware to flash this keyboard
+This build utilizes exact pinout that **CRKBD** uses. So you can safely use your Corne (v2/v3) firmware to flash this keyboard.
+If you never had Corne keyboard, [this](https://github.com/fathulfahmy/corne-keyboard/tree/main/firmware) should work
 
 #### Build guide (WIP)
 
