@@ -11,6 +11,9 @@ Greetings, fellow keyboard enthusiasts. I am glad to share  with you my small pr
 - **Altair/Altair-X** - top grade aestethics, build quality.
 - **Cheapino** - Robust, easy to assemble, easy to fix/repair, easy to source components, well... cheap! ☺️
 
+#### Whats the big idea?
+Robust, decent-looking, comfortable, cost-effective, easy-to-build/repair/use split keyboard.
+
 #### Why not just use one of those options?
 (Basically, a list of nit-picks 😀 )
 - **CRKBD** - thumb cluster, specifically 1.5u innermost keys. Not only does it feel a bit clunky for me to use, but also, finding matching keycaps for those keys could be challenging and annoying. Although I do somewhat understand the reasoning behind this (design-wise, it makes sense to extend this key to 1.5u, because with 1u you kind of have this empty space and weird angle on the inner edge of the keyboard (just like in Ergonaut, Cantor, or this very keyboard). Since the mcu is quite wide, you cannot eliminate this issue without moving the whole cluster outwards or rotating in in a werid position, which in and of itself could hurt comfort of use. TRRS connection between two halves.
@@ -23,6 +26,15 @@ Greetings, fellow keyboard enthusiasts. I am glad to share  with you my small pr
 #### Why not low-profile?
 
 Well, mostly the switches. I am yet to find LP switch, that can compete in typing feel with some remarkable and widely loved MX-type ones. And I have tried almost all chocs, a variety of KS33 and Kailh LP models. The available options for MX switches at this point is far superior imo, and could fulfill the needs of any enthusiast. 
+
+#### Why not wireless?
+I've tried multiple wireless keyboards, and keeping their charge levels in check is just another hassle for me. And the batteries themselves being another point of failure (experienced quite a few "spicy pillows" myself), which defeats the goal of this being robust. Maybe in the future I'll rethink this, but with the use of 3.7v AAA or coin cell batteries as power source.
+
+#### Why no LEDs?
+I mean... Nothing against it, but it adds nothing of value to the device imo, except, well, cost and build complexity.
+
+#### Why no OLEDs?
+Again, I fiddled with them for some time in my Corne keyboards, but at the end I just removed them for the purpose of fitting in a slimmer case. How often do you look at them anyway, while using your device? They're okay to help debugging some build issues with the keyboard, but other than than, just "bells and whistles".
 
 #### Why USB-A connectors? (Oops, I couldn't help myself)
 
