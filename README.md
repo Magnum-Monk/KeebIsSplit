@@ -6,7 +6,7 @@ Greetings, fellow keyboard enthusiasts. I am glad to share with you my small pro
 
 #### References / Inspirations :
 
-- **CRKBD** - all-time classic, "industry standart" of ergo keyboards at this point, if I could say so myself;
+- **CRKBD** - all-time classic, "industry standart" of DIY ergo keyboards at this point, if I could say so myself;
 - **Cantor/Piantor** - excellent thumb cluster, overall big improvement in layout ergonimics imo.
 - **Altair/Altair-X** - top grade aestethics, build quality.
 - **Cheapino** - Robust, easy to assemble, easy to fix/repair, easy to source components, well... cheap! ☺️
