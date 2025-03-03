@@ -16,7 +16,7 @@ Robust, decent-looking, comfortable, cost-effective, easy-to-build/repair/use sp
 
 #### Firmware
 This build utilizes exact pinout that **CRKBD** uses. So you can safely use your Corne (v2/v3) firmware to flash this keyboard.
-If you never had Corne keyboard, [this](https://github.com/fathulfahmy/corne-keyboard/tree/main/firmware) should work
+If you've never had a Corne keyboard before, [this](https://github.com/fathulfahmy/corne-keyboard/tree/main/firmware) should work
 
 #### Build guide (WIP)
 
