@@ -1,6 +1,7 @@
 ### Keeb Is Split
 
-(built keyboard photo: WIP)
+![IMG20250322162552](https://github.com/user-attachments/assets/85a917ac-9d5f-474d-a67f-4c3ebcd85f55)
+
 
 #### Whats the big idea? (TLDR)
 Robust, decent-looking, comfortable, cost-effective, easy-to-build/repair/use 3x6 split keyboard. 
@@ -16,7 +17,7 @@ Robust, decent-looking, comfortable, cost-effective, easy-to-build/repair/use 3x
 This build utilizes exact pinout that **CRKBD** uses. So you can safely use your Corne (v2/v3) firmware to flash this keyboard.
 If you've never had a Corne keyboard before, [this](https://github.com/fathulfahmy/corne-keyboard/tree/main/firmware) should work
 
-#### Build guide (WIP)
+#### Build guide (WIP, but you could use CRKBDv3 build guide, there are not much differences there)
 
 #### BOM
 | Part                 | Amount | Links                                                                                                                                                                                                                                                                                                                                                    |
@@ -29,8 +30,8 @@ If you've never had a Corne keyboard before, [this](https://github.com/fathulfah
 | USB-A -> USB-A Cable | 1      | [aliexpress 1](https://aliexpress.ru/item/1005003574732583.html?spm=a2g2w.orderdetail.0.0.44344aa6HsNdnS&sku_id=12000026341806398) [aliexpress 2](https://aliexpress.ru/item/1005006002851777.html?spm=a2g2w.orderdetail.0.0.312e4aa6oU8xds&sku_id=12000035266036584)  [aliexpress 3](https://aliexpress.ru/item/1005007351594401.html?spm=a2g2w.orderdetail.0.0.4f0d4aa6ib4thb&sku_id=12000040385973360)     |
 | Reset Button         | 2      | [aliexpress](https://aliexpress.ru/item/1005007177692594.html?sku_id=12000039712603251&spm=a2g2w.productlist.search_results.11.2bad61e4nLrZqG)                                                                                                                                                                                                                         |
 | Header Pin Sockets (20 pin)    | 4      | [aliexpress](https://aliexpress.ru/item/1005005104952508.html?sku_id=12000031676025007&spm=a2g2w.productlist.search_results.13.42b445bb9N34Mz)                                                                                                                                                                                                                         |
-| M2x5 screw           | 20     |                                                                                                                                                                                                                                                                                                                                                          |
-| M2x6 screw           | 8      |                                                                                                                                                                                                                                                                                                                                                          |
+| M2x5 screw           | 20     | For attaching mounting plate and bottom case                                                                                                                                                                                                                                                                                                                                                         |
+| M2x6 screw           | 8      | For attaching top case to bottom case                                                                                                                                                                                                                                                                                                                                                          |
 | M2x5 spacer          | 18     | [aliexpress](https://aliexpress.ru/item/4000314663724.html?sku_id=10000001297126740&spm=a2g2w.productlist.search_results.0.67825d52ElIZ9D)                                                                                                                                                                                                                             |
 
 #### "Why won't you just use one of those referenced options?"
@@ -47,7 +48,7 @@ If you've never had a Corne keyboard before, [this](https://github.com/fathulfah
 Well, mostly the switches. I am yet to find LP switch, that can compete in typing feel with some remarkable and widely loved MX-type ones. And I have tried almost all chocs, a variety of KS33 and Kailh LP models. The available selection of MX switches at this point is far more superior imo, and could fulfill the needs of any enthusiast. 
 
 #### Why not wireless?
-I've tried multiple wireless keyboards, and keeping their charge levels in check is just another hassle for me. And the batteries themselves being another point of failure (experienced quite a few "spicy pillows" myself), which defeats the goal of this being robust. Maybe in the future I'll rethink this, but with the use of 3.7v AAA or coin cell batteries as a power source. And last, but not least - after using VIAL I could not see myself using anything else, especially since I like to tinker with my layouts quite often, and reflashing the whole keyboard each time you decide to remap something seems like the relic of the past.
+I've tried multiple wireless keyboards, and keeping their charge levels in check is just another hassle for me. And the batteries themselves being another point of failure (experienced quite a few "spicy pillows" myself), which defeats the goal of this being robust. Maybe in the future I'll rethink this, but with the use of 3.7v AAA or coin cell batteries as a power source.
 
 #### Why no LEDs?
 I mean... Nothing against it, but it adds nothing of value to the device imo, except, well, cost and build complexity.
