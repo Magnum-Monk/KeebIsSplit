@@ -1,7 +1,7 @@
 ### Keeb Is Split
 
-![IMG20250322162552](https://github.com/user-attachments/assets/85a917ac-9d5f-474d-a67f-4c3ebcd85f55)
-![IMG20250322162331](https://github.com/user-attachments/assets/1af903ca-81dd-44c3-a027-00a9554e15c4)
+![built](https://github.com/Magnum-Monk/KeebIsSplit/blob/buld_guide_v1/DOC/assets/built.png)
+![plates](https://github.com/Magnum-Monk/KeebIsSplit/blob/buld_guide_v1/DOC/assets/plates.jpg)
 
 
 #### Whats the big idea? (TLDR)
@@ -32,8 +32,16 @@ If you've never had a Corne keyboard before, [this](https://github.com/fathulfah
 | Reset Button         | 2      | [aliexpress](https://aliexpress.ru/item/1005007177692594.html?sku_id=12000039712603251&spm=a2g2w.productlist.search_results.11.2bad61e4nLrZqG)                                                                                                                                                                                                                         |
 | Header Pin Sockets (20 pin)    | 4      | [aliexpress](https://aliexpress.ru/item/1005005104952508.html?sku_id=12000031676025007&spm=a2g2w.productlist.search_results.13.42b445bb9N34Mz)                                                                                                                                                                                                                         |
 | M2x5 screw           | 20     | For attaching mounting plate and bottom case                                                                                                                                                                                                                                                                                                                                                         |
-| M2x6 screw           | 8      | For attaching top case to bottom case                                                                                                                                                                                                                                                                                                                                                          |
+| M2x6 screw           | 8      | For attaching top case to bottom case |
 | M2x5 spacer          | 18     | [aliexpress](https://aliexpress.ru/item/4000314663724.html?sku_id=10000001297126740&spm=a2g2w.productlist.search_results.0.67825d52ElIZ9D)                                                                                                                                                                                                                             |
+| Top case left           | 1      | |
+| Top case right          | 1      | |
+| Bottom case left        | 1      | |
+| Bottom case right       | 1      | |
+| Mounting plate left     | 1      | |
+| Mounting plate right    | 1      | |
+| Foam mid                | 2      | |
+| Foam bottom             | 2      | |
 
 #### "Why won't you just use one of those referenced options?"
 (Basically, a list of nit-picks 😀 )
