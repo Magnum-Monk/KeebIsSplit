@@ -15,6 +15,7 @@
 3) Now solder the SMD Diodes. You got multiple options here.
  - Using soldering paste with hot air gun
  - Using regular solder wire with soldering iron
+   
  I won't go in depth on this here, but you can easily find more info on SMD soldering online, [for example](https://www.instructables.com/A-Complete-Beginners-Guide-to-SMD-Soldering/)                                                                                                                   
 
  I went with the second option. Little tip:
