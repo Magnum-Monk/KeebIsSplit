@@ -18,7 +18,9 @@ Robust, decent-looking, comfortable, cost-effective, easy-to-build/repair/use 3x
 This build utilizes exact pinout that **CRKBD** uses. So you can safely use your Corne (v2/v3) firmware to flash this keyboard.
 If you've never had a Corne keyboard before, [this](https://github.com/fathulfahmy/corne-keyboard/tree/main/firmware) should work
 
-#### Build guide (WIP, but you could use CRKBDv3 build guide, there are not much differences there)
+#### Build guide 
+[here](https://github.com/Magnum-Monk/KeebIsSplit/blob/main/DOC/build_guide.md)
+
 
 #### BOM
 | Part                 | Amount | Links                                                                                                                                                                                                                                                                                                                                                    |
