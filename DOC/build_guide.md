@@ -72,7 +72,7 @@ Here's a simplified assembly to use as a rough guide:
 
 ![assembly](https://github.com/Magnum-Monk/KeebIsSplit/blob/buld_guide_v1/DOC/assets/assembly.png)
 
-In this stage it is a good idea to check if everything fits nicely together. Try on the top case and check if all the USB-C / USB-A holes are positioned correctly. It is essential to follow step 5 thoroughly to be sure that MCU USB-C port is aligned vertically with the case opening for it, as it could be tricky to fix it after sockets are already soldered onto the PCB. Moreover, some ProMicro clones have inconsistent USB-C port positioning, so that is something you should keep in mind too. In the worst scenario you can always use a file to adjust the case opening, noone is gonna judge you :)
+In this stage it is a good idea to check if everything fits nicely together. Try on the top case and check if all the USB-C / USB-A holes are positioned correctly. It is essential to follow step 5 thoroughly to be sure that MCU USB-C port is aligned vertically with the case opening for it, as it could be tricky to fix it after sockets are already soldered onto the PCB. Moreover, some ProMicro clones have inconsistent USB-C port positioning, so that is something you should keep in mind too. In a worst case scenario you can always use a file to adjust the case opening, noone is gonna judge you :)
 
 11) If everything is okay, put in your favorite switches and keycaps and screw the top case to the bottom case using m2x6 ~ m2x8 screws.
 
