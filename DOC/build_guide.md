@@ -37,7 +37,7 @@ Little notice - depending on the components you might want to cut off its legs, 
 If you are planning to use the case, provided with this build, I would highly suggest bying exact pin sockets, mentioned in BOM list in main readme.md file, since the case is designed around using them.
 
 First, cut off the sockets to 12-pin size, You'll need 4 of those. Then prepare some pins of your choice (do not use pins that come with the MCU itself, since they're not compatible with MCU sockets used here). I used spare through hole diode legs, some 0.6mm copper wire would work too. In some previous builds I used copper wire from twisted pair internet cable, that would do too.
-Then insert sockets into PCB holes (no soldering here). Put the MCU board facing down on the sockets, insert your pins through MCU board into sockets.
+Then insert sockets into PCB holes, or better yet - use some "breadboard" if you have one, since there would be no play, and MCU alignment would be much better. Put the MCU board facing down on the sockets, insert your pins through MCU board into sockets.
 
 Should look like this:
 
